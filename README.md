@@ -7,3 +7,4 @@ Hacktoberfest is finally on! Write some cool python codes and make some PRs to t
 3. TextToSpeech : Python script to convert texts to speech.
 4. Spam : Python script to spam different types of forms.
 5. Internet Tester : Python script to test internet connection.
+6. Raed image using opencv-python
